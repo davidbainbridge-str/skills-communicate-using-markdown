@@ -11,8 +11,6 @@ Here are some file contents
 
 Added header examples to the index.md file
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 Added code examples:
 
 ```
@@ -23,3 +21,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Added a task list:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
