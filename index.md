@@ -10,3 +10,5 @@ Here are some file contents
 ####### Can we do an H7 header? Probably not.
 
 Added header examples to the index.md file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
